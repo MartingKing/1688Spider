@@ -1,0 +1,16 @@
+Date: Mon, 25 Feb 2019 07:10:00 GMT
+Ufe-Result: A6
+S_V: 4.0.0.9-SNAPSHOT
+S_Ip: 4547514b65494a5a42663967426768394c413d3d
+S_Host: 51716a31752f525a5130436e69646b7a493262767873756b534868556545314645413d3d
+S_Tag: 2199023583232|68719476736^1|^^
+S_Ucode: CN:CENTER
+S_Tid: 0b0ae10615510786004887467e26a2
+S_Read_Unit: [r=CN;u=CENTER]
+S_Group: tao-session
+S_Status: STATUS_NOT_EXISTED
+Location: https://login.1688.com/member/signin.htm?from=sm&Done=http://s.1688.com/company/-BAA3C4CF.html?pageSize=30&offset=3&beginPage=79
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b0ae10615510786004887467e26a2
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *

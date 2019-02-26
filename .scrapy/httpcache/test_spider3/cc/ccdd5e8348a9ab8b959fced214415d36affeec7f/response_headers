@@ -1,0 +1,9 @@
+Date: Fri, 22 Feb 2019 05:42:19 GMT
+S: STATUS_NORMAL
+Set-Cookie: _csrf_token=1550814139504; Domain=.1688.com; Path=/
+P3P: CP='CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR'
+Location: https://page.1688.com/shtml/static/wrongpage.html
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b1b780d15508141394674906ef987
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *

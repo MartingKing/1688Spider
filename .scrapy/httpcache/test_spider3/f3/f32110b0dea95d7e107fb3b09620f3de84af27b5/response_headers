@@ -1,0 +1,17 @@
+Date: Fri, 22 Feb 2019 07:18:12 GMT
+Content-Type: text/html
+Ufe-Result: A6
+Set-Cookie: XSRF-TOKEN=213d401c-0b22-41a4-8aba-c454fc3bd8be; Path=/; HttpOnly
+Set-Cookie: cookie2=1d720b624060a9df533ab3da67dadfcb; Domain=.taobao.com; Path=/; HttpOnly
+Set-Cookie: t=b7d2442b038685807f9f0a6257434c86; Domain=.taobao.com; Path=/
+Set-Cookie: _tb_token_=363e37b368da7; Domain=.taobao.com; Path=/
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Location: https://pass.1688.com/add?cookie2=1d720b624060a9df533ab3da67dadfcb&t=b7d2442b038685807f9f0a6257434c86&_tb_token_=363e37b368da7&tmsc=1550819892818000&opi=11.131.192.42&pacc=LmnNDbG83MJ94hAde1hF5A==&target=https%3A%2F%2Fcx.1688.com%2Fcertificate%2Fimage%2FcertificateImageView.htm%3Ftbpm%3D1%26memberId%3Db2b-2924362929a9ea3
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b83c02a15508198928174990ef08c

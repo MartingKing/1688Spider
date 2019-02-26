@@ -1,0 +1,12 @@
+Date: Fri, 22 Feb 2019 06:49:55 GMT
+Content-Type: text/html
+S: STATUS_NORMAL
+Location: https://login.1688.com/member/signin.htm?from=sm&Done=http://s.1688.com/company/-BAD3C4CF.html?pageSize=30&sortType=pop&offset=3&beginPage=40
+Access-Control-Allow-Credentials: true
+Bxpunish: 1
+Cache-Control: no-cache
+X-Xss-Protection: 1;mode=block
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b838e6915508181953063189e7b78
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *

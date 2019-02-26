@@ -1,0 +1,12 @@
+Date: Thu, 21 Feb 2019 04:20:03 GMT
+Server: Microsoft-IIS/8.5
+Set-Cookie: security_session_verify=9b6729deb837b6490f298cf3ee739c1d; expires=Sun, 24-Feb-19 12:16:54 GMT; path=/; HttpOnly
+Set-Cookie: security_session_verify=9b6729deb837b6490f298cf3ee739c1d; expires=Sun, 24-Feb-19 12:16:54 GMT; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=blws5zqipr0ci4a1lnoslv45; path=/; HttpOnly
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

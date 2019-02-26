@@ -1,0 +1,15 @@
+Date: Thu, 21 Feb 2019 08:33:26 GMT
+Ufe-Result: A6
+S_V: 4.0.0.9-SNAPSHOT
+S_Ip: 4547514b654965536a682f665531337330513d3d
+S_Host: 51716a31752f525a5130436e69646b7a49324d5a48644b37546651546633694a50666d5152735434644b303d
+S_Tag: 2199023321092|68719542272^|^^
+S_Ucode: CN:CENTER
+S_Tid: 0b1503d915507380066282179e10b1
+S_Group: tao-session
+S_Status: STATUS_NORMAL
+Location: https://login.taobao.com/jump?group=tao&target=https%3A%2F%2Flogin.1688.com%2Fmember%2Fsignin.htm%3Ftbpm%3D1%26from%3Dsm%26Done%3Dhttp%3A%2F%2Fs.1688.com%2Fcompany%2F-B9E3B6AB.html%3FnetType%3D1%252C11%26pageSize%3D30%26n%3Dy%26sortType%3Dpop%26offset%3D3%26beginPage%3D15
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b1503d915507380066282179e10b1
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *

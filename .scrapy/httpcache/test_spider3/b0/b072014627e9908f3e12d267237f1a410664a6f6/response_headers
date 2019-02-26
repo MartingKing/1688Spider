@@ -1,0 +1,21 @@
+Date: Mon, 25 Feb 2019 02:47:03 GMT
+Set-Cookie: cookie2=172e94de3aca0566131b927e4c0d047c; Domain=.1688.com; Path=/; HttpOnly
+Set-Cookie: t=95f01516d1c77fd1f49ad956a2a3ea15; Domain=.1688.com; Path=/
+Set-Cookie: _tb_token_=e6b187a7eb571; Domain=.1688.com; Path=/
+Set-Cookie: __cn_logon__=false; Domain=.1688.com; Path=/
+Set-Cookie: __cn_logon_id__=; Domain=.1688.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+P3P: CP='CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR'
+S_V: 4.0.0.9-SNAPSHOT
+S_Ip: 4547514b65494d6168726a53594b443967413d3d
+S_Host: 51716a31752f525a5130436e69646b7a49326464706977797339483737786e5073513d3d
+S_Tag: 283674000031748|138412032^|^^
+S_Ucode: CN:CENTER
+S_Tid: 0bafb54f15510628231886227ea4aa
+S_Group: tao-session
+S_Status: STATUS_NORMAL
+Location: https://login.1688.com/member/signin.htm?tbpm=1&from=sm&Done=http://s.1688.com/company/-B0B2BBD5.html?pageSize=30&sortType=pop&offset=3&beginPage=80
+Content-Language: zh-CN
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0bafb54f15510628231886227ea4aa
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *

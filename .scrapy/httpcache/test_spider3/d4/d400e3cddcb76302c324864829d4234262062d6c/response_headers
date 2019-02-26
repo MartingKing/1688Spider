@@ -1,0 +1,17 @@
+Date: Thu, 21 Feb 2019 11:55:50 GMT
+Content-Type: text/html
+Ufe-Result: A6
+Set-Cookie: XSRF-TOKEN=1aa06d0e-65ba-4b42-bfef-2841466db292; Path=/; HttpOnly
+Set-Cookie: cookie2=1bfcae5bd1c7f4e7aedbd7d15edede90; Domain=.taobao.com; Path=/; HttpOnly
+Set-Cookie: t=8e20d63daf5bbeb854ed4e62a344d395; Domain=.taobao.com; Path=/
+Set-Cookie: _tb_token_=eebeeeeee431e; Domain=.taobao.com; Path=/
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Location: https://pass.1688.com/add?cookie2=1bfcae5bd1c7f4e7aedbd7d15edede90&t=8e20d63daf5bbeb854ed4e62a344d395&_tb_token_=eebeeeeee431e&tmsc=1550750150481000&opi=11.1.70.60&pacc=pNDftnA9GcpWXcgA54E7GA==&target=https%3A%2F%2Flogin.1688.com%2Fmember%2Fsignin.htm%3Ftbpm%3D1%26from%3Dsm%26Done%3Dhttp%3A%2F%2Fs.1688.com%2Fcompany%2F-D5E3BDAD.html%3FnetType%3D1%252C11%26earseDirect%3Dfalse%26button_click%3Dtop%26pageSize%3D30%26n%3Dy%26offset%3D3%26beginPage%3D41
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b01463c15507501504805286e1215

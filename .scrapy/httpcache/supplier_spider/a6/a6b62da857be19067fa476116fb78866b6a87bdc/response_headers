@@ -1,0 +1,12 @@
+Date: Tue, 19 Feb 2019 10:36:01 GMT
+Content-Type: text/html;charset=UTF-8
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Accept,X-PINGARUNER,CONTENT-TYPE,X-Requested-With
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+S: STATUS_NOT_EXISTED
+Location: https://login.1688.com/member/signin.htm?from=sm&Done=https%3A%2F%2Fsec.1688.com%2Fquery.htm%3Faction%3DQueryAction%26event_submit_do_login%3Dok%26smApp%3Dcompany.web%26smPolicy%3Dcompany.web-company__yellow_page-anti_Spider-seo-html-checklogin%26smCharset%3DGBK%26smTag%3DMjE4LjE3LjE1Ny41NSwsMWI5NmUyNWM4ZjYzNGI1OGE0MTM2OGYyMTA2NDk0ODQ%253D%26smReturn%3Dhttps%253A%252F%252Fcorp.1688.com%252Fpage%252Findex.htm%253FmemberId%253D*xC-i2FvbMFNWOm8GMC9*MFcbMybZ8NTT%2526fromSite%253Dcompany_site%2526tracelog%253Dgsda_huangye%26smSign%3DhAO1bWoi4RKVBX0g%252FnLc0w%253D%253D
+Content-Language: zh-CN
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b833ad015505725610063895e36d0
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *

@@ -1,0 +1,12 @@
+Server: Tengine
+Date: Fri, 22 Feb 2019 03:48:17 GMT
+Location: https://login.taobao.com/jump?target=https%3A%2F%2Fcorp.1688.com%2Fpage%2Findex.htm%3Ftbpm%3D1%26memberId%3Db2b-2477659653%26type%3DenterpriseHomepage%26_server_name%3Dcorp.1688.com%26fromSite%3Dcompany_site
+Eagleeye-Traceid: 3d9bde1c15508072975931735e
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *, *
+Ali-Swift-Global-Savetime: 1550807297
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Fri, 22 Feb 2019 03:48:17 GMT
+X-Swift-Cachetime: 0
+Via: cache3.cn785[72,302-0,M], cache8.cn785[73,0]
+Eagleid: 3d9bde1c15508072975931735e

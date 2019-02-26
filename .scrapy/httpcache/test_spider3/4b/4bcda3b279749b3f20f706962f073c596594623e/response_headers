@@ -1,0 +1,12 @@
+Date: Fri, 22 Feb 2019 02:02:26 GMT
+Content-Type: text/html
+S: STATUS_NORMAL
+Location: https://login.1688.com/member/signin.htm?from=sm&Done=http://s.1688.com/company/company_search.htm?keywords=%BD%AD%CB%D5&netType=1%2C11&earseDirect=false&button_click=top&n=y&pageSize=30&offset=3&beginPage=41
+Access-Control-Allow-Credentials: true
+Bxpunish: 1
+Cache-Control: no-cache
+X-Xss-Protection: 1;mode=block
+Server: Tengine/Aserver
+Eagleeye-Traceid: 0b83960315508009463224800e2928
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
